@@ -12,4 +12,6 @@ Sample website with plenty of files for demos.
 
 ## Deployment 
 
+Yes.  Simple website projects
+
 ## How to Contribute
