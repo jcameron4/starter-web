@@ -16,5 +16,7 @@ Yes.  Simple website projects
 
 ## How to Contribute
 
+Carefully
+
 ### Copywrite
 Adding a copywrite notice
