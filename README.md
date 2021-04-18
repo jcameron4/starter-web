@@ -20,4 +20,4 @@ Yes.  Simple website projects
 Carefully adding text
 
 ### Copywrite
-Adding a copywrite notice
+Adding a copywrite notice.   NEW NOTICE
