@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work and the first repository
 ## Introduction 
 
 This is an example of how it is done.  Adding more stuff
+More changes for realfeatures
 
 ## Purpose
 
