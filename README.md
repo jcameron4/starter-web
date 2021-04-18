@@ -15,3 +15,6 @@ Sample website with plenty of files for demos.
 Yes.  Simple website projects
 
 ## How to Contribute
+
+### Copywrite
+Adding a copywrite notice
